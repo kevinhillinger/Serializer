@@ -1,9 +1,9 @@
 {
-    "name": "kevinhillinger/symfony/serializer",
+    "name": "kevinhillinger/serializer",
     "type": "library",
-    "description": "Symfony Serializer Component",
+    "description": "Customized Symfony Serializer Component",
     "keywords": [],
-    "homepage": "http://symfony.com",
+    "homepage": "https://github.com/kevinhillinger/Serializer",
     "license": "MIT",
     "authors": [
         {
